@@ -105,7 +105,8 @@ public class Subscriber {
         System.out.println("\n1. Student Plan"
                            + "\n2. Individual Plan"
                            + "\n3. Family Plan"
-                           + "\n4. FreeTrial Plan");
+                           + "\n4. FreeTrial Plan"
+                           + "\n");
     }
 
     public void setSubDate(LocalDate date){
